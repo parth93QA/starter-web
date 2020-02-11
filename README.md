@@ -1,3 +1,7 @@
+
+
+## PYTHON FLASK AND DJANGO CONTENT
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
@@ -17,3 +21,7 @@ Starter Web Project
 THIS IS DEVOPS
 
 THIS IS WHERE I FORK
+
+
+
+GIT COMPARISON..... ADDING STAGES ... COMPARISON IN GIT
