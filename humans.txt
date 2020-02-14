@@ -1,6 +1,6 @@
 GITLOGS AND ETc
 BRYAN
-
+DEVOPS LEVEL 3
 # humanstxt.org/
 # The humans responsible & technology colophon
 
